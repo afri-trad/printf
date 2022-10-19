@@ -1,1 +1,6 @@
-A _printf project that replicates the C standard library printf() function
+Creating Printf Function (Team Task)
+
+
+collaborators
+Okojie Christian -- afrit-trad
+Mohri Muaks -- sam-muaks
